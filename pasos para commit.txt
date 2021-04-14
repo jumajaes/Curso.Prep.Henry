@@ -1,0 +1,5 @@
+git status 
+
+git add + archivos que quiero guardar || mejor 'git add .' guarda todo de una vez
+
+git commit -m 'nombre de la foto'.
